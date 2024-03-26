@@ -19,7 +19,9 @@ font-size: 28px;
   width: 25%;  
 }
 
+
 .escola{
-    display: flex;
-    color:rgb(246, 247, 248);
+display: flex;
+color: white;
+background-image: radial-gradient(circle at 50% 112.69%, #006ce8 0, #0069eb 8.33%, #0064ec 16.67%, #005ee9 25%, #0056e5 33.33%, #004dde 41.67%, #4d42d4 50%, #7234c8 58.33%, #8c21bb 66.67%, #a000ac 75%, #af009c 83.33%, #bb008b 91.67%, #c40079 100%);
 }
